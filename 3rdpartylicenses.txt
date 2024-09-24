@@ -441,6 +441,9 @@ SOFTWARE.
 ngx-perfect-scrollbar
 MIT
 
+ngx-webcam
+MIT
+
 pdfjs-dist
 Apache-2.0
 
